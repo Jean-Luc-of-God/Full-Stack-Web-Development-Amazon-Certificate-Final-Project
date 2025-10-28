@@ -1,4 +1,4 @@
-```markdown
+
 # To-Do List Web Application
 
 ## Overview
@@ -91,5 +91,3 @@ http://localhost:8080
 **MANISHIMWE KWIZERA Jean Luc**
 Full-Stack Developer in Training
 
-```
-```
